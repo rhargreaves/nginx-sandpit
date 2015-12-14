@@ -1,14 +1,14 @@
 # nginx-sandpit
 NGINX Experiments
 
-# Installation
+## Installation
 Build the docker image:
 
 ```
 $ docker build -t nginx .
 ```
 
-# Usage
+## Usage
 Run the docker image:
 
 ```
